@@ -1,4 +1,3 @@
-import { Fragment, useEffect, useRef } from "react";
 import KnitAuth from "./components/Knit";
 
 function App() {
