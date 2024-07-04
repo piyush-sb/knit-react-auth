@@ -23,6 +23,7 @@ function KnitAuth(props: KnitAuthProps) {
       originUserEmail: "scrut@scrut.com",
       originOrgName: "scrut.dev",
       originUserName: "Piyush Gupta",
+      clearErrors: true,
       // filters: [
       //   {
       //     category: "HRIS",
